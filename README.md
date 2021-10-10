@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Django, Flask
 - 🤩 I love to play CTFs and Hackathons
-- 🤔 I’m looking for help with backend web development
+- 🤔 I’m looking for help with Backend web development
 - 😄 Pronouns : He/Him
 - ⚡ Fun fact : I wish to have an IT dept inside me 😝
 
