@@ -7,7 +7,7 @@
 - ⚡ Fun fact : I wish to have an IT dept inside me 😝
 
 ## Connect with me:
-<a href="https://instagram.com/dhanvinesh_11" target="_blank"><img align="left" alt="dhanvinesh_11 | Instagram" width="30px" height="20" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://instagram.com/dhanvinesh_11" target="_blank"><img align="left" alt="dhanvinesh_11 | Instagram" width="30px" height="20px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 
 <br><br>
 
