@@ -34,6 +34,8 @@
 
 ![Reaper-Dhan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Reaper-Dhan&theme=dracula)
 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Reaper-Dhan&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=3C95FF)
+
 <br>
 
 ![Visitor Count](https://profile-counter.glitch.me/{Reaper-Dhan}/count.svg)
