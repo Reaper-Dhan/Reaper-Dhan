@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on <a href="https://github.com/Reaper-Dhan/Smart-City-Hackathon">Smart-City-Hackathon</a> 
 - 🌱 I’m currently learning Django, Flask
 - 🤩 I love to play CTFs and Hackathons
+- 😎 CTF teams - Cyber0ids | S0UL_REAPERS
 - 🤔 I’m looking for help with Backend web development
 - 😄 Pronouns : He/Him
 - ⚡ Fun fact : I wish to have an IT dept inside me 😝
