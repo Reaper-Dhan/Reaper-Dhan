@@ -34,4 +34,6 @@
 
 ![Reaper-Dhan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Reaper-Dhan&theme=dracula)
 
+<br>
+
 ![Visitor Count](https://profile-counter.glitch.me/{Reaper-Dhan}/count.svg)
