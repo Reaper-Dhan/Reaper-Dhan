@@ -33,3 +33,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reaper-Dhan&theme=radical)
 
 ![Reaper-Dhan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Reaper-Dhan&theme=dracula)
+
+![Visitor Count](https://profile-counter.glitch.me/{Reaper-Dhan}/count.svg)
