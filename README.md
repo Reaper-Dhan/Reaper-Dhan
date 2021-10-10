@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on <a href="https://github.com/Reaper-Dhan/Smart-City-Hackathon">Smart-City-Hackathon</a> 
 - 🌱 I’m currently learning Django, Flask
 - 👨‍🎓 B Tech Cybersecurity <a href="https://www.amrita.edu/school/engineering/chennai">@Amrita University</a>
-- 🤩 I love to play CTFs and Hackathons
+- 🤩 Love to play CTFs and Hackathons
 - 😎 CTF teams - Cyber0ids | S0UL_REAPERS
 - 🤝 Member at <a href="https://github.com/cognizance-amrita">Cognizance-Amrita</a> [CyberSecurity & Opensource]
 - 🤔 I’m looking for help with Backend web development
