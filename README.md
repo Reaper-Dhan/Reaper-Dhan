@@ -30,13 +30,13 @@
   
 ## Statistics:
   
-<img align="right" alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=Reaper-Dhan&show_icons=true&theme=radical">
+<img align="left" alt="Stats" width="500" height="400" src="https://github-readme-stats.vercel.app/api?username=Reaper-Dhan&show_icons=true&theme=radical">
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Reaper-Dhan&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=3C95FF)
+<img align="left" alt="Stats" width="500" height="400" src="http://github-readme-streak-stats.herokuapp.com?user=Reaper-Dhan&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=3C95FF">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reaper-Dhan&theme=radical)
+<img align="left" alt="Stats" width="500" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reaper-Dhan&theme=radical">
 
-![Reaper-Dhan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Reaper-Dhan&theme=dracula)
+<img align="left" alt="Stats" width="500" height="400" src="https://activity-graph.herokuapp.com/graph?username=Reaper-Dhan&theme=dracula">
 
 <br>
 
