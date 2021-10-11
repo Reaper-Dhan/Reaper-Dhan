@@ -32,7 +32,7 @@
   
 <img align="left" alt="Stats" width="500" height="400" src="https://github-readme-stats.vercel.app/api?username=Reaper-Dhan&show_icons=true&theme=radical">
 
-<img align="left" alt="Stats" width="500" height="400" src="http://github-readme-streak-stats.herokuapp.com?user=Reaper-Dhan&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=3C95FF">
+<img align="right" alt="Stats" width="500" height="400" src="http://github-readme-streak-stats.herokuapp.com?user=Reaper-Dhan&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=3C95FF">
 
 <img align="left" alt="Stats" width="500" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reaper-Dhan&theme=radical">
 
