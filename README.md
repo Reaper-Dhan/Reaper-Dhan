@@ -41,3 +41,9 @@
 <br>
 
 ![Visitor Count](https://profile-counter.glitch.me/{Reaper-Dhan}/count.svg)
+
+<style>
+    img {
+        float: left;
+    }
+</style>
