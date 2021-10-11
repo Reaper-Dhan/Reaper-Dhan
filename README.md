@@ -1,4 +1,4 @@
-## <b>Heyyo, I'm Dhanvinesh! a.k.a Reaper-Dhan
+## <b>Heyyo, I'm Dhanvinesh!
 - 🔭 I’m currently working on <a href="https://github.com/Reaper-Dhan/Smart-City-Hackathon">Smart-City-Hackathon</a> 
 - 🌱 I’m currently learning Django, Flask
 - 👨‍🎓 B Tech Cybersecurity <a href="https://www.amrita.edu/school/engineering/chennai">@Amrita University</a>
@@ -6,7 +6,7 @@
 - 😎 CTF teams - Cyber0ids | S0UL_REAPERS
 - 🤝 Member at <a href="https://github.com/cognizance-amrita">Cognizance-Amrita</a> [CyberSecurity & Opensource]
 - 🤔 I’m looking for help with Backend web development
-- 😄 Pronouns : He/Him/His
+- 😄 Pronouns : He/Him
 - ⚡ Fun fact : I wish to have an IT dept inside me 😝
 
 ## Connect with me:
@@ -17,7 +17,7 @@
 ## Languages and Tools:
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/githqq                        ub/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
@@ -30,7 +30,7 @@
   
 ## Statistics:
   
-![Reaper-Dhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reaper-Dhan&show_icons=true&theme=radical)
+<img align="right" alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=Reaper-Dhan&show_icons=true&theme=radical
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Reaper-Dhan&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=3C95FF)
 
