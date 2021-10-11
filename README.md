@@ -29,7 +29,6 @@
 <br><br>
   
 ## Statistics:
-  
 <p float="left">
 <img alt="Stats" width="500" height="400" src="https://github-readme-stats.vercel.app/api?username=Reaper-Dhan&show_icons=true&theme=radical">
 
