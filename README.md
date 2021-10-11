@@ -6,7 +6,7 @@
 - 😎 CTF teams - Cyber0ids | S0UL_REAPERS
 - 🤝 Member at <a href="https://github.com/cognizance-amrita">Cognizance-Amrita</a> [CyberSecurity & Opensource]
 - 🤔 I’m looking for help with Backend web development
-- 😄 Pronouns : He/Him
+- 😄 Pronouns : He/Him/His
 - ⚡ Fun fact : I wish to have an IT dept inside me 😝
 
 ## Connect with me:
