@@ -32,7 +32,7 @@
 <img alt="Stats" width="46%" src="https://github-readme-stats.vercel.app/api?username=Reaper-Dhan&show_icons=true&theme=radical" hspace="20"><img alt="Streak Stats" width="46%" src="http://github-readme-streak-stats.herokuapp.com?user=Reaper-Dhan&theme=radical&date_format=j%20M%5B%20Y%5D&fire=3C95FF">
   <p></p>
 <img alt="Activity Graph" width="800" src="https://activity-graph.herokuapp.com/graph?username=Reaper-Dhan&theme=dracula">
-<br>
+  <p></p>
 <img alt="Top Languages" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reaper-Dhan&theme=radical">
-<br>
-<img alt="Visit Counter" align-items="center" width="60%" height="125" src="https://profile-counter.glitch.me/{Reaper-Dhan}/count.svg">
+  <p></p>
+<img alt="Visit Counter" align-items="center" width="60%" height="75" src="https://profile-counter.glitch.me/{Reaper-Dhan}/count.svg">
