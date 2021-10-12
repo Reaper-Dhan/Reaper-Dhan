@@ -10,12 +10,12 @@
 - ⚡ Fun fact : I wish to have an IT dept inside me 😝
 
 ## Connect with me:
-[<img align="left" alt="twitter | Twitter" width="30px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
 <a href="https://instagram.com/dhanvinesh_11" target="_blank"><img align="left" alt="dhanvinesh_11 | Instagram" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />
 <a href="https://twitter.com/Reaper_Dhan" target="_blank"><img align="left" alt="Reaper_Dhan | Twitter" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />
 <a href="https://www.linkedin.com/in/ReaperDhan/" target="_blank"><img align="left" alt="Dhanvinesh K | Linkedin" width="30px" height="30px" src="./Icons/linkedin.png" />
 <a href="https://t.me/Reaper_Dhan" target="_blank"><img align="left" alt="Reaper_Dhan | Telegram" width="30px" height="30px" src="./Icons/telegram.png" />
 <a href="dhanvineshk2003@gmail.com" target="_blank"><img align="left" alt="Dhanvinesh K | Email" width="30px" height="30px" src="./Icons/email.jpg" />
+<a href="https://devpost.com/dhanvineshk2003?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank"><img alt="Dhanvinesh K | Devpost" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/devpost/devpost-icon.svg" >
 <br><br>
 
 ## Languages and Tools:
