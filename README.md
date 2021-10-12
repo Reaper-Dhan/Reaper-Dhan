@@ -11,7 +11,7 @@
 <br>
 
 ## Connect with me:
-&ensp;
+&nbsp;
 <a href="https://instagram.com/dhanvinesh_11"><img alt="dhanvinesh_11 | Instagram" width="35" height="35" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" /> &nbsp;
 <a href="https://twitter.com/Reaper_Dhan"><img alt="Reaper_Dhan | Twitter" width="35" height="35" src="https://image.flaticon.com/icons/png/512/733/733579.png" /> &nbsp;
 <a href="https://www.linkedin.com/in/ReaperDhan/"><img alt="Dhanvinesh K | Linkedin" width="35" height="35" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/> &nbsp;
@@ -20,24 +20,24 @@
 <br>
 
 ## Languages and Tools:
-&ensp;
-<a href="https://www.w3.org/html/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a> &ensp;
-<a href="https://www.w3schools.com/css/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> </a> &ensp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a> &ensp;
-<a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> </a> &ensp;
-<a href="https://www.w3schools.com/cpp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/> </a> &ensp;
-<a href="https://www.cprogramming.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> </a> &ensp;
-<a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a> &ensp;
-<a href="https://kotlinlang.org"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="35" height="35"/> </a> &ensp;
-<a href="https://golang.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="35" height="35"/> </a> &ensp;
-<a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/> </a> &ensp;
-<a href="https://www.linux.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> </a> &ensp;
-<a href=""><img alt="Terminal/Bash" width="35" height="35" src="https://image.flaticon.com/icons/png/512/668/668453.png" /></a> &ensp;
-<a href="https://www.vscode.com/"> <img alt="VS Code" width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"> &ensp;
-<a href=""><img alt="Git" width="35" height="35" src="https://image.flaticon.com/icons/png/512/2111/2111288.png" /> &ensp;
-<a href=""><img alt="GitHub" width="35" height="35" src="https://image.flaticon.com/icons/png/512/270/270798.png" /></a> &ensp;
- <a href="https://heroku.com"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="35"/> </a> &ensp;
-<a href="https://firebase.google.com/"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/> </a> &ensp;
+&nbsp;
+<a href="https://www.w3.org/html/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a> &nbsp;
+<a href="https://www.w3schools.com/css/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> </a> &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a> &nbsp;
+<a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> </a> &nbsp;
+<a href="https://www.w3schools.com/cpp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/> </a> &nbsp;
+<a href="https://www.cprogramming.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> </a> &nbsp;
+<a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a> &nbsp;
+<a href="https://kotlinlang.org"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="35" height="35"/> </a> &nbsp;
+<a href="https://golang.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="35" height="35"/> </a> &nbsp;
+<a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/> </a> &nbsp;
+<a href="https://www.linux.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> </a> &nbsp;
+<a href=""><img alt="Terminal/Bash" width="35" height="35" src="https://image.flaticon.com/icons/png/512/668/668453.png" /></a> &nbsp;
+<a href="https://www.vscode.com/"> <img alt="VS Code" width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"> &nbsp;
+<a href=""><img alt="Git" width="35" height="35" src="https://image.flaticon.com/icons/png/512/2111/2111288.png" /> &nbsp;
+<a href=""><img alt="GitHub" width="35" height="35" src="https://image.flaticon.com/icons/png/512/270/270798.png" /></a> &nbsp;
+ <a href="https://heroku.com"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="35"/> </a> &nbsp;
+<a href="https://firebase.google.com/"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/> </a> &nbsp;
 <br>
   
 ## Statistics:
