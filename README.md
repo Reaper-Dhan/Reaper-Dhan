@@ -8,6 +8,7 @@
 - 🤔 I’m looking for help with Backend web development
 - 😄 Pronouns : He/Him/His
 - ⚡ Fun fact : I wish to have an IT dept inside me 😝
+<br>
 
 ## Connect with me:
 &ensp;
@@ -16,10 +17,9 @@
 <a href="https://www.linkedin.com/in/ReaperDhan/" target="_blank"><img alt="Dhanvinesh K | Linkedin" width="35" height="35" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/> &emsp;
 <a href="https://t.me/Reaper_Dhan" target="_blank"><img alt="Reaper_Dhan | Telegram" width="35" height="35" src="https://img.icons8.com/fluency/144/000000/telegram-app.png"/> &emsp;
 <a href="https://devpost.com/dhanvineshk2003?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank"><img alt="Dhanvinesh K | Devpost" width="35" height="35" src="https://www.vectorlogo.zone/logos/devpost/devpost-icon.svg" >
-<br><br>
+<br>
 
 ## Languages and Tools:
-<p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a> &ensp;
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> </a> &ensp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a> &ensp;
@@ -37,8 +37,6 @@
 <a href="" target="_blank"><img alt="GitHub" width="35" height="35" src="https://image.flaticon.com/icons/png/512/270/270798.png" /></a> &ensp;
  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="35"/> </a> &ensp;
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/> </a> &ensp;
-</p>
-
 <br>
   
 ## Statistics:
