@@ -17,7 +17,8 @@
 <a href="https://www.linkedin.com/in/ReaperDhan/"><img alt="Dhanvinesh K | Linkedin" width="35" height="35" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/> &nbsp;
 <a href="https://t.me/Reaper_Dhan"><img alt="Reaper_Dhan | Telegram" width="35" height="35" src="https://img.icons8.com/fluency/144/000000/telegram-app.png"/> &nbsp;
 <a href="https://devpost.com/dhanvineshk2003?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img alt="Dhanvinesh K | Devpost" width="35" height="35" src="https://www.vectorlogo.zone/logos/devpost/devpost-icon.svg" >
-<br>
+ 
+<br><br>
 
 ## Languages and Tools:
 &nbsp;
@@ -38,7 +39,8 @@
 <a href=""><img alt="GitHub" width="35" height="35" src="https://image.flaticon.com/icons/png/512/270/270798.png" /></a> &nbsp;
  <a href="https://heroku.com"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="35"/> </a> &nbsp;
 <a href="https://firebase.google.com/"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/> </a> &nbsp;
-<br>
+ 
+<br><br>
   
 ## Statistics:
   <p></p>
