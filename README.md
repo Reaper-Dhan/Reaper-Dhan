@@ -10,11 +10,11 @@
 - ⚡ Fun fact : I wish to have an IT dept inside me 😝
 
 ## Connect with me:
-<a href="https://instagram.com/dhanvinesh_11" target="_blank"><img alt="dhanvinesh_11 | Instagram" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />
-<a href="https://twitter.com/Reaper_Dhan" target="_blank"><img alt="Reaper_Dhan | Twitter" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />
-<a href="https://www.linkedin.com/in/ReaperDhan/" target="_blank"><img alt="Dhanvinesh K | Linkedin" width="30px" height="30px" src="" />
-<a href="https://t.me/Reaper_Dhan" target="_blank"><img alt="Reaper_Dhan | Telegram" width="30px" height="30px" src="https://img.icons8.com/fluency/144/000000/telegram-app.png"/>
-<a href="https://devpost.com/dhanvineshk2003?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank"><img alt="Dhanvinesh K | Devpost" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/devpost/devpost-icon.svg" >
+<a href="https://instagram.com/dhanvinesh_11" target="_blank"><img alt="dhanvinesh_11 | Instagram" width="35" height="35" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />
+<a href="https://twitter.com/Reaper_Dhan" target="_blank"><img alt="Reaper_Dhan | Twitter" width="35" height="35" src="https://image.flaticon.com/icons/png/512/733/733579.png" />
+<a href="https://www.linkedin.com/in/ReaperDhan/" target="_blank"><img alt="Dhanvinesh K | Linkedin" width="35" height="35" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>
+<a href="https://t.me/Reaper_Dhan" target="_blank"><img alt="Reaper_Dhan | Telegram" width="35" height="35" src="https://img.icons8.com/fluency/144/000000/telegram-app.png"/>
+<a href="https://devpost.com/dhanvineshk2003?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank"><img alt="Dhanvinesh K | Devpost" width="35" height="35" src="https://www.vectorlogo.zone/logos/devpost/devpost-icon.svg" >
 <br><br>
 
 ## Languages and Tools:
