@@ -10,8 +10,11 @@
 - ⚡ Fun fact : I wish to have an IT dept inside me 😝
 
 ## Connect with me:
-<a href="https://instagram.com/dhanvinesh_11" target="_blank"><img align="left" alt="dhanvinesh_11 | Instagram" width="30px" height="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-
+<a href="https://instagram.com/dhanvinesh_11" target="_blank"><img align="left" alt="dhanvinesh_11 | Instagram" width="30px" height="30px" src="./Icons/insta.jpg" />
+<a href="https://twitter.com/Reaper_Dhan" target="_blank"><img align="left" alt="Reaper_Dhan | Twitter" width="30px" height="30px" src="./Icons/twitter.png" />
+<a href="https://www.linkedin.com/in/ReaperDhan/" target="_blank"><img align="left" alt="Dhanvinesh K | Linkedin" width="30px" height="30px" src="./Icons/linkedin.png" />
+<a href="https://t.me/Reaper_Dhan" target="_blank"><img align="left" alt="Reaper_Dhan | Telegram" width="30px" height="30px" src="./Icons/telegram.png" />
+<a href="dhanvineshk2003@gmail.com" target="_blank"><img align="left" alt="Dhanvinesh K | Email" width="30px" height="30px" src="./Icons/email.jpg" />
 <br><br>
 
 ## Languages and Tools:
