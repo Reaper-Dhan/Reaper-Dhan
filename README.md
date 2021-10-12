@@ -38,4 +38,4 @@
   <p align="center"><img alt="Activity Graph" width="94%" src="https://activity-graph.herokuapp.com/graph?username=Reaper-Dhan&theme=dracula"></p>
 
   <p><br><br></p>
-<p align="center"><img alt="Visit Counter" align-items="center" width="60%" height="75" src="https://profile-counter.glitch.me/{Reaper-Dhan}/count.svg"></p>
+<p align="center"><img alt="Visit Counter" align-items="center" width="60%" height="60" src="https://profile-counter.glitch.me/{Reaper-Dhan}/count.svg"></p>
