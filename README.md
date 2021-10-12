@@ -1,4 +1,4 @@
-## <b>Heyyo, I'm Dhanvinesh! a.k.a Reaper_Dhan
+<h1 align="center"><b>Heyyo 👋, I'm Dhanvinesh! a.k.a Reaper_Dhan</b></h1>
 - 🔭 I’m currently working on <a href="https://github.com/Reaper-Dhan/Smart-City-Hackathon">Smart-City-Hackathon</a> 
 - 🌱 I’m currently learning Django, Flask
 - 👨‍🎓 B Tech Computer Science and Engineering - Cybersecurity <a href="https://www.amrita.edu/school/engineering/chennai">@Amrita University</a>
