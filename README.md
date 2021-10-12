@@ -1,15 +1,20 @@
-<h1 align="center">Heyyo 👋, I'm Dhanvinesh! a.k.a Reaper_Dhan</h1>
+<h1 align="center">Hi 👋, I'm Dhan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/Reaper-Dhan/Smart-City-Hackathon">Smart-City-Hackathon</a> 
-- 🌱 I’m currently learning Django, Flask
-- 👨‍🎓 B Tech Computer Science and Engineering - Cybersecurity <a href="https://www.amrita.edu/school/engineering/chennai">@Amrita University</a>
-- 🤩 Love to play CTFs and Hackathons
-- 😎 CTF teams - Cyber0ids | S0UL_REAPERS
-- 🤝 Member at <a href="https://github.com/cognizance-amrita">Cognizance-Amrita</a> [CyberSecurity & Opensource]
-- 🤔 I’m looking for help with Backend web development
-- 😄 Pronouns : He/Him/His
-- ⚡ Fun fact : I wish to have an IT dept inside me 😝
+- 🔭 I’m currently working on **asfsaf**
 
+- 🌱 I’m currently learning **avvcwa**
+
+- 👯 I’m looking to collaborate on **safF**
+
+- 🤝 I’m looking for help with **FSd**
+
+- 👨‍💻 All of my projects are available at [sfaf](sfaf)
+
+- 💬 Ask me about **acscqw**
+
+- 📫 How to reach me **asfaf**
+- 
 <br>
 
 ## Connect with me:
