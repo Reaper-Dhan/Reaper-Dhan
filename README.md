@@ -1,6 +1,5 @@
-<h1 align="center">
-## Heyyo 👋, I'm Dhanvinesh! a.k.a Reaper_Dhan
-</h1>
+<h1 align="center">Heyyo 👋, I'm Dhanvinesh! a.k.a Reaper_Dhan</h1>
+
 - 🔭 I’m currently working on <a href="https://github.com/Reaper-Dhan/Smart-City-Hackathon">Smart-City-Hackathon</a> 
 - 🌱 I’m currently learning Django, Flask
 - 👨‍🎓 B Tech Computer Science and Engineering - Cybersecurity <a href="https://www.amrita.edu/school/engineering/chennai">@Amrita University</a>
@@ -10,6 +9,7 @@
 - 🤔 I’m looking for help with Backend web development
 - 😄 Pronouns : He/Him/His
 - ⚡ Fun fact : I wish to have an IT dept inside me 😝
+
 <br>
 
 ## Connect with me:
