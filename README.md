@@ -46,4 +46,4 @@
 <p align="center"><img alt="Activity Graph" width="94%" src="https://activity-graph.herokuapp.com/graph?username=Reaper-Dhan&theme=dracula"></p>
 <p align="center"><img alt="Top Languages" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reaper-Dhan&theme=radical"></p>
   <p><br><br></p>
-<p align="center"><img alt="Visit Counter" align-items="center" width="60%" height="75" src="https://profile-counter.glitch.me/{Reaper-Dhan}/count.svg"></p>
+<p align="center"><img alt="Visit Counter" align-items="center" width="60%" height="50" src="https://profile-counter.glitch.me/{Reaper-Dhan}/count.svg"></p>
