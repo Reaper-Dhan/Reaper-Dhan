@@ -1,6 +1,6 @@
 <h1 align="center">Heyyo 👋, I'm Dhanvinesh! a.k.a Reaper_Dhan</h1>
 
-- 🔭 I’m currently participating in CTFs and learning Reverse Engineering
+- 🔭 I’m currently participating in CTFs and learning Reverse Engineering, Flask and OpenCV
 - 🌱 I’m currently learning how to manage my studies and work 😂
 - 👨‍🎓 B Tech Computer Science and Engineering - Cybersecurity <a href="https://www.amrita.edu/school/engineering/chennai">@Amrita University</a>
 - 🤩 Love to play CTFs and Hackathons
