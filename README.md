@@ -5,7 +5,8 @@
 - 👨‍🎓 B Tech Computer Science and Engineering - Cybersecurity <a href="https://www.amrita.edu/school/engineering/chennai">@Amrita University</a>
 - 🤩 Love to play CTFs and Hackathons
 - 😎 CTF teams - Cyber0ids | S0UL_REAPERS
-- 🤝 Member at <a href="https://github.com/cognizance-amrita">Cognizance-Amrita</a> [CyberSecurity & Opensource]
+- 🤝 Member at <a href="https://github.com/cognizance-amrita">Cognizance-Amrita</a> [Opensource]
+- 🤝 Mentor at <a href="https://github.com/cognizance-amrita">Cognizance-Amrita</a> [Cybersecurity]
 - 🤔 I’m looking for help with Backend web development
 - 😄 Pronouns : He/Him/His
 - ⚡ Fun fact : I wish to have an IT dept inside me 😝
