@@ -1,51 +1,71 @@
-<h1 align="center">Heyyo 👋, I'm Dhanvinesh! a.k.a Reaper_Dhan</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hey+there!+%F0%9F%91%8B+I'm+Dhanvinesh;Security+Engineer+%26+Researcher;Mobile,+Web,+%26+Cloud+Security;Learning+AD+%26+Reverse+Engineering;Building+Security+Tools" alt="Typing SVG" />
+  </a>
+  <br/>
+  <p>
+    <em>Passionate about <strong>Application Security, Building Tools, and CTFs</strong>. Constantly breaking things to learn how to build them securely.</em>
+  </p>
+</div>
 
-- 🔭 I’m currently participating in CTFs and learning Reverse Engineering, Flask and OpenCV
-- 🌱 I’m currently learning how to manage my studies and work 😂
-- 👨‍🎓 B Tech Computer Science and Engineering - Cybersecurity <a href="https://www.amrita.edu/school/engineering/chennai">@Amrita University</a>
-- 🤩 Love to play CTFs and Hackathons
-- 😎 CTF teams - Cyber0ids | S0UL_REAPERS
-- 🤝 Member at <a href="https://github.com/cognizance-amrita">Cognizance-Amrita</a> [Opensource]
-- 🤝 Mentor at <a href="https://github.com/cognizance-amrita">Cognizance-Amrita</a> [Cybersecurity]
-- 🤔 I’m looking for help with Backend web development
-- 😄 Pronouns : He/Him/His
-- ⚡ Fun fact : I wish to have an IT dept inside me 😝
-<br>
+<p align="center">
+  <img src="https://probot.media/9EuBIqgapI.gif" width="600" />
+</p>
 
-## Connect with me:
-&nbsp;
-<a href="https://instagram.com/dhanvinesh_11"><img alt="dhanvinesh_11 | Instagram" width="35" height="35" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" /> &nbsp;
-<a href="https://twitter.com/Reaper_Dhan"><img alt="Reaper_Dhan | Twitter" width="35" height="35" src="https://image.flaticon.com/icons/png/512/733/733579.png" /> &nbsp;
-<a href="https://www.linkedin.com/in/ReaperDhan/"><img alt="Dhanvinesh K | Linkedin" width="35" height="35" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/> &nbsp;
-<a href="https://t.me/Reaper_Dhan"><img alt="Reaper_Dhan | Telegram" width="35" height="35" src="https://img.icons8.com/fluency/144/000000/telegram-app.png"/> &nbsp;
-<a href="https://devpost.com/dhanvineshk2003?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img alt="Dhanvinesh K | Devpost" width="35" height="35" src="https://www.vectorlogo.zone/logos/devpost/devpost-icon.svg" >
-<br>
+### 👨‍💻 About Me
 
-## Languages and Tools:
-&nbsp;
-<a href="https://www.w3schools.com/html/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="35" height="35"/> </a> &nbsp;
-<a href="https://www.w3schools.com/css/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="35" height="35"/> </a> &nbsp;
-<a href="https://www.w3schools.com/js/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="35" height="35"/> </a> &nbsp;
-<a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/> </a> &nbsp;
-<a href="https://www.w3schools.com/cpp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35"/> </a> &nbsp;
-<a href="https://www.programiz.com/c-programming"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="35" height="35"/> </a> &nbsp;
-<a href="https://www.w3schools.com/java/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a> &nbsp;
-<a href="https://kotlinlang.org"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="35" height="35"/> </a> &nbsp;
-<a href="https://golang.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="35" height="35"/> </a> &nbsp;
-<a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/> </a> &nbsp;
-<a href="https://www.linux.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> </a> &nbsp;
-<a href="https://www.tutorialspoint.com/unix/shell_scripting.htm"><img alt="Terminal/Bash" width="35" height="35" src="https://image.flaticon.com/icons/png/512/668/668453.png" /></a> &nbsp;
-<a href="https://code.visualstudio.com/"> <img alt="VS Code" width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"> &nbsp;
-<a href="https://git-scm.com/"><img alt="Git" width="35" height="35" src="https://image.flaticon.com/icons/png/512/2111/2111288.png" /> &nbsp;
-<a href="https://www.github.com"><img alt="GitHub" width="35" height="35" src="https://image.flaticon.com/icons/png/512/270/270798.png" /></a> &nbsp;
- <a href="https://heroku.com"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="35"/> </a> &nbsp;
-<a href="https://firebase.google.com/"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/> </a> &nbsp;
-<br>
-  
-## Statistics:
-  <p></p>
-<p align="center"><img alt="Stats" width="46%" src="https://github-readme-stats.vercel.app/api?username=Reaper-Dhan&show_icons=true&theme=radical" hspace="10"><img alt="Streak Stats" width="46%" src="http://github-readme-streak-stats.herokuapp.com?user=Reaper-Dhan&theme=radical&date_format=j%20M%5B%20Y%5D&fire=3C95FF"></p>
-<p align="center"><img alt="Top Languages" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reaper-Dhan&theme=radical&layout=compact"></p>
-<p align="center"><img alt="Activity Graph" width="94%" src="https://activity-graph.herokuapp.com/graph?username=Reaper-Dhan&theme=dracula"></p>
-  <p><br><br></p>
-<p align="center"><img alt="Visit Counter" align-items="center" width="40%" height="43" src="https://profile-counter.glitch.me/{Reaper-Dhan}/count.svg"></p>
+- 👨‍🎓 **Alumnus:** B.Tech Computer Science and Engineering (Cybersecurity) @ [Amrita University](https://www.amrita.edu/school/engineering/chennai)
+- 🥇 **Former Lead:** Coordinator / Lead of Cybersecurity and Open Source at [Cognizance-Amrita](https://github.com/cognizance-amrita)
+- 🔭 **Currently Focusing On:** AppSec, Tool Development (Go/Python), Building Proxy Environments
+- 🌱 **Currently Learning:** Active Directory, Reverse Engineering, and how to manage my work 😂
+- 🤩 **Love to play:** CTFs and Hackathons
+- 😎 **CTF Teams:** Cyber0ids | S0UL_REAPERS
+- 😄 **Pronouns:** He/Him/His
+- ⚡ **Fun fact:** I wish to have an IT dept inside me 😝
+
+<p align="center">
+  <img src="https://probot.media/9EuBIqgapI.gif" width="600" />
+</p>
+
+### 💻 Tech Stack & Tools
+
+<p align="center">
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,py,js,html,css,c,cpp,java,kotlin,bash,linux,mysql,git,github,vscode,heroku,firebase&theme=dark&perline=10" />
+  </a>
+  <br/>
+</p>
+
+<p align="center">
+  <img src="https://probot.media/9EuBIqgapI.gif" width="600" />
+</p>
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Reaper-Dhan&theme=midnight_purple" alt="Summary Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Reaper-Dhan&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reaper-Dhan&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://probot.media/9EuBIqgapI.gif" width="600" />
+</p>
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ReaperDhan/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/Reaper_Dhan"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://discord.com/users/reaper_dhan"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://devpost.com/dhanvineshk2003"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" /></a>
+</p>
+
+<p align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Reaper-Dhan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
