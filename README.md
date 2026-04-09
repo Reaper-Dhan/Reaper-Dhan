@@ -49,7 +49,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Reaper-Dhan&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reaper-Dhan&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" width="48%" />
 </p>
 
 <p align="center">
