@@ -44,11 +44,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Reaper-Dhan&theme=midnight_purple" alt="Summary Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Reaper-Dhan&theme=midnight_purple&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Reaper-Dhan&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Reaper-Dhan&theme=tokyonight&hide_border=true&background=0D1117&cache_seconds=86400" />
 </p>
 
 <p align="center">
