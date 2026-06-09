@@ -119,9 +119,6 @@
 <!-- ====================== LATEST BLOG POSTS (auto-updated) ====================== -->
 <a id="blog"></a>
 ## ✍️ Latest Blog Posts
-
-<sub>🔄 Auto-updated from <a href="https://r34p3r-dhan.in/posts/">r34p3r-dhan.in/posts</a></sub>
-
 <!-- BLOG-POST-LIST:START -->
 <table>
 <tr>
