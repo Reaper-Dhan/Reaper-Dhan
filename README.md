@@ -123,10 +123,16 @@
 <sub>🔄 Auto-updated from <a href="https://r34p3r-dhan.in/posts/">r34p3r-dhan.in/posts</a></sub>
 
 <!-- BLOG-POST-LIST:START -->
-- **[CVE-2025-9318: Authenticated SQL Injection in QSM](https://r34p3r-dhan.in/posts/post.html?file=2026-01-qsm-sqli.md)**  
-  <sub>`RESEARCH` · 2026-01-20 · 7 min read</sub>  
-  Time-based blind SQL injection in QSM ≤ 10.3.1 allowing authenticated users to extract DB contents.  
-  `#sqli` `#wordpress` `#cve`
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://r34p3r-dhan.in/posts/post.html?file=2026-01-qsm-sqli.md">CVE-2025-9318: Authenticated SQL Injection in QSM</a></h3>
+<img src="https://img.shields.io/badge/RESEARCH-00FF99?style=flat-square&amp;labelColor=0d1117" alt="RESEARCH" /> <img src="https://img.shields.io/badge/2026--01--20-1f2937?style=flat-square&amp;labelColor=0d1117" alt="2026-01-20" /> <img src="https://img.shields.io/badge/7_min_read-1f2937?style=flat-square&amp;labelColor=0d1117" alt="7 min read" /><br/><br/>
+<sub>Time-based blind SQL injection in QSM ≤ 10.3.1 allowing authenticated users to extract DB contents.</sub><br/><br/>
+<img src="https://img.shields.io/badge/%23sqli-2d333b?style=flat-square&amp;labelColor=0d1117" alt="#sqli" /> <img src="https://img.shields.io/badge/%23wordpress-2d333b?style=flat-square&amp;labelColor=0d1117" alt="#wordpress" /> <img src="https://img.shields.io/badge/%23cve-2d333b?style=flat-square&amp;labelColor=0d1117" alt="#cve" />
+</td>
+</tr>
+</table>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ====================== WHAT I'M INTO ====================== -->
