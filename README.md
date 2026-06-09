@@ -1,13 +1,15 @@
-<!-- ====================== HEADER ====================== -->
+<!-- ====================== ANIMATED HEADER ====================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Dhanvinesh%20%7C%20Reaper-Dhan&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Security%20Engineer%20%26%20Researcher&descSize=18&descAlignY=60" alt="header" />
+
+<!-- ====================== INTRO / TYPING ====================== -->
 <div align="center">
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="wave" />
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=650&height=80&lines=Hey+there!+%F0%9F%91%8B+I'm+Dhanvinesh;Security+Engineer+%26+Researcher;Mobile+%7C+Web+%7C+Cloud+Security;Learning+AD+%26+Reverse+Engineering;I+break+things+to+build+them+securely" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=650&height=70&lines=Hey+there!+I'm+Dhanvinesh;Security+Engineer+%26+Researcher;Mobile+%7C+Web+%7C+Cloud+Security;Learning+AD+%26+Reverse+Engineering;I+break+things+to+build+them+securely" alt="Typing SVG" />
 </a>
 
-<p>
-  <em>Passionate about <strong>Application Security, Tool Development, and CTFs</strong>.</em>
-</p>
+<p><em>Passionate about <strong>Application Security, Tool Development, and CTFs</strong>.</em></p>
 
 <a href="https://www.linkedin.com/in/ReaperDhan/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://twitter.com/Reaper_Dhan"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter" /></a>
@@ -17,13 +19,15 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Reaper-Dhan/Reaper-Dhan/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+<!-- ====================== SNAKE ====================== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reaper-Dhan/Reaper-Dhan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reaper-Dhan/Reaper-Dhan/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Reaper-Dhan/Reaper-Dhan/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</picture>
 
-<!-- ====================== ABOUT (interactive) ====================== -->
-<details open>
-  <summary><h3>🧑‍💻 &nbsp;About Me &nbsp;<sub><i>(click to collapse)</i></sub></h3></summary>
-
-<br/>
+<!-- ====================== ABOUT ME ====================== -->
+## 🧑‍💻 About Me
 
 - 🎓 &nbsp;**Alumnus:** B.Tech Computer Science & Engineering (Cybersecurity) @ [Amrita University](https://www.amrita.edu/school/engineering/chennai)
 - 🥇 &nbsp;**Former Lead:** Cybersecurity & Open Source @ [Cognizance-Amrita](https://github.com/cognizance-amrita)
@@ -33,26 +37,17 @@
 - 🤩 &nbsp;**Loves:** CTFs, Hackathons, and breaking things responsibly
 - ⚡ &nbsp;**Fun fact:** I wish I had an entire IT dept inside me 😝
 
-</details>
-
-<!-- ====================== TECH STACK (interactive, categorized) ====================== -->
-<details>
-  <summary><h3>🛠️ &nbsp;Tech Stack &amp; Tools &nbsp;<sub><i>(click to expand)</i></sub></h3></summary>
-
-<br/>
+<!-- ====================== TECH STACK ====================== -->
+## 🛠️ Tech Stack & Tools
 
 <table>
   <tr>
     <td><b>🗣️ Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=go,py,c,cpp,java,kotlin,js,bash&theme=dark" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=go,py,c,cpp,java,kotlin,js,bash&theme=dark" /></td>
   </tr>
   <tr>
     <td><b>🌐 Web</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,nodejs,flask,fastapi&theme=dark" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,nodejs,flask,fastapi&theme=dark" /></td>
   </tr>
   <tr>
     <td><b>🧰 Security / Recon</b></td>
@@ -66,40 +61,24 @@
   </tr>
   <tr>
     <td><b>☁️ Infra / DevOps</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=linux,docker,git,github,mysql,firebase,heroku&theme=dark" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=linux,docker,git,github,mysql,firebase,heroku&theme=dark" /></td>
   </tr>
   <tr>
     <td><b>🧑‍🔧 Tooling</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=vscode,vim,postman,kali&theme=dark" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,vim,postman,kali&theme=dark" /></td>
   </tr>
 </table>
 
-</details>
-
 <!-- ====================== STATS (theme-responsive) ====================== -->
-<details open>
-  <summary><h3>📈 &nbsp;GitHub Stats &nbsp;<sub><i>(adapts to your light/dark theme)</i></sub></h3></summary>
-
-<br/>
+## 📊 GitHub Stats
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Reaper-Dhan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=midnight-purple&cache_seconds=86400" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Reaper-Dhan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Reaper-Dhan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=midnight-purple" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reaper-Dhan&theme=2077" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reaper-Dhan&theme=default" />
+  <img width="84%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reaper-Dhan&theme=2077" alt="Profile Details" />
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Reaper-Dhan&layout=compact&hide_border=true&langs_count=8&theme=midnight-purple&cache_seconds=86400" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Reaper-Dhan&layout=compact&hide_border=true&langs_count=8&theme=default&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reaper-Dhan&layout=compact&hide_border=true&langs_count=8&theme=midnight-purple" alt="Top Languages" />
-</picture>
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Reaper-Dhan&hide_border=true&theme=tokyonight&cache_seconds=86400" />
@@ -107,19 +86,28 @@
   <img src="https://streak-stats.demolab.com?user=Reaper-Dhan&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 </picture>
 
-</div>
-
-</details>
-
-<!-- ====================== TROPHIES + ACTIVITY ====================== -->
-<details>
-  <summary><h3>🏆 &nbsp;Trophies &amp; Activity &nbsp;<sub><i>(click to expand)</i></sub></h3></summary>
-
 <br/>
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reaper-Dhan&theme=midnight_purple" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reaper-Dhan&theme=default" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reaper-Dhan&theme=midnight_purple" alt="Top Languages" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Reaper-Dhan&theme=midnight_purple" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Reaper-Dhan&theme=default" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Reaper-Dhan&theme=midnight_purple" alt="Most Commit Language" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Reaper-Dhan&theme=midnight_purple&utcOffset=5.5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Reaper-Dhan&theme=default&utcOffset=5.5" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Reaper-Dhan&theme=midnight_purple&utcOffset=5.5" alt="Productive Time" />
+</picture>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Reaper-Dhan&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+</div>
+
+<!-- ====================== ACTIVITY GRAPH ====================== -->
+## 📈 Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Reaper-Dhan&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400" />
@@ -127,27 +115,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reaper-Dhan&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </picture>
 
-</div>
-
-</details>
-
-<!-- ====================== INTERESTS ====================== -->
-<details>
-  <summary><h3>🎯 &nbsp;What I'm Into &nbsp;<sub><i>(click to expand)</i></sub></h3></summary>
-
-<br/>
+<!-- ====================== WHAT I'M INTO ====================== -->
+## 🎯 What I'm Into
 
 | Domain | Focus |
 | --- | --- |
 | 🔓 **AppSec** | Web, mobile & API security, source review, threat modeling |
 | ☁️ **Cloud** | Posture assessment, IAM mis-config, credentialed scanning |
-| 🧩 **Tooling** | Building scanners & automation in Go/Python |
+| 🧩 **Tooling** | Building scanners & automation in Go / Python |
 | 🚩 **CTFs** | Web exploitation, reversing, pwn |
 | 🧠 **Learning** | Active Directory attacks, reverse engineering |
-
-> *"Constantly breaking things to learn how to build them securely."*
-
-</details>
 
 <!-- ====================== DEV QUOTE (auto-rotates) ====================== -->
 <div align="center">
@@ -158,6 +135,9 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </picture>
 
-<sub>⭐️ From <a href="https://github.com/Reaper-Dhan">Reaper-Dhan</a> — thanks for stopping by!</sub>
+<sub>⭐️ <em>"Constantly breaking things to learn how to build them securely."</em></sub>
 
 </div>
+
+<!-- ====================== ANIMATED FOOTER ====================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="footer" />
