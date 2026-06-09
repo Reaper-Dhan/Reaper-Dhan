@@ -4,7 +4,7 @@
 <!-- ====================== INTRO / TYPING ====================== -->
 <div align="center">
 
-<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="180" alt="waving character" />
+<img src="https://raw.githubusercontent.com/Reaper-Dhan/Reaper-Dhan/main/assets/wave.svg" width="200" alt="waving developer" />
 <br/>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=650&height=70&lines=Hey+there!+I'm+Dhanvinesh;Security+Engineer+%26+Researcher;Mobile+%7C+Web+%7C+Cloud+Security;Learning+AD+%26+Reverse+Engineering;I+break+things+to+build+them+securely" alt="Typing SVG" />
