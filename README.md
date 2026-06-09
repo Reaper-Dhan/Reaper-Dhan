@@ -1,5 +1,5 @@
 <!-- ====================== ANIMATED HEADER ====================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=220&amp;section=header&amp;text=Dhanvinesh%20%7C%20Reaper-Dhan&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Security%20Engineer%20%7C%20Researcher&amp;descSize=18&amp;descAlignY=90" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=220&amp;section=header&amp;text=Dhanvinesh%20K%20%7C%20Reaper-Dhan&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Security%20Engineer%20%7C%20Researcher&amp;descSize=18&amp;descAlignY=90" alt="header" />
 
 <!-- ====================== INTRO / TYPING ====================== -->
 <div align="center">
