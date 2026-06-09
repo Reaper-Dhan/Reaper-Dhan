@@ -117,15 +117,15 @@
 </picture>
 
 <!-- ====================== LATEST BLOG POSTS (auto-updated) ====================== -->
-<a id="blog"></a>
+<!--<a id="blog"></a>
 ## ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<table>
+<!-- BLOG-POST-LIST:START --> -->
+<!--<table>
 <tr>
 <td width="33%" align="center"><a href="https://r34p3r-dhan.in/posts/post.html?file=2026-01-qsm-sqli.md"><img src="https://raw.githubusercontent.com/Reaper-Dhan/Reaper-Dhan/main/assets/cards/2026-01-qsm-sqli.svg" width="100%" alt="CVE-2025-9318: Authenticated SQL Injection in QSM" /></a></td>
 </tr>
 </table>
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> -->
 
 <!-- ====================== WHAT I'M INTO ====================== -->
 ## 🎯 What I'm Into
