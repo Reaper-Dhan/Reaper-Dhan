@@ -116,6 +116,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reaper-Dhan&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Activity Graph" />
 </picture>
 
+<!-- ====================== LATEST BLOG POSTS (auto-updated) ====================== -->
+<a id="blog"></a>
+## ✍️ Latest Blog Posts
+
+<sub>🔄 Auto-updated from <a href="https://r34p3r-dhan.in/posts/">r34p3r-dhan.in/posts</a></sub>
+
+<!-- BLOG-POST-LIST:START -->
+- **[CVE-2025-9318: Authenticated SQL Injection in QSM](https://r34p3r-dhan.in/posts/post.html?file=2026-01-qsm-sqli.md)**  
+  <sub>`RESEARCH` · 2026-01-20 · 7 min read</sub>  
+  Time-based blind SQL injection in QSM ≤ 10.3.1 allowing authenticated users to extract DB contents.  
+  `#sqli` `#wordpress` `#cve`
+<!-- BLOG-POST-LIST:END -->
+
 <!-- ====================== WHAT I'M INTO ====================== -->
 ## 🎯 What I'm Into
 

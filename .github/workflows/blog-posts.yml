@@ -1,0 +1,37 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update_posts.py"
+      - ".github/workflows/blog-posts.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Update latest blog posts in README
+        run: python scripts/update_posts.py
+      - name: Commit changes if any
+        run: |
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: refresh latest blog posts"
+            git push
+          else
+            echo "No changes."
+          fi
