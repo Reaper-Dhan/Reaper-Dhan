@@ -141,6 +141,8 @@
 | 🚩 **CTFs** | Web exploitation, reversing, pwn |
 | 🧠 **Learning** | Active Directory attacks, reverse engineering |
 
+<br>
+
 <!-- ====================== DEV QUOTE (auto-rotates) ====================== -->
 <div align="center">
 
