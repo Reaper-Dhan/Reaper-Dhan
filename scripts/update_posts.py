@@ -25,9 +25,37 @@ TYPE_COLOR = {"research": "#00FF99", "writeup": "#00d4ff", "notes": "#f0c674"}
 
 
 def fetch_posts():
-    req = urllib.request.Request(FEED, headers={"User-Agent": "reaper-readme-bot"})
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return json.load(resp)
+    """Fetch latest published posts from the blog feed with improved error handling."""
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Accept": "application/json",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://r34p3r-dhan.in/",
+    }
+    max_retries = 3
+    retry_delay = 2
+    
+    for attempt in range(max_retries):
+        try:
+            req = urllib.request.Request(FEED, headers=headers)
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                return json.load(resp)
+        except urllib.error.HTTPError as e:
+            if attempt < max_retries - 1:
+                print(f"Attempt {attempt + 1}/{max_retries} failed with HTTP {e.code}, retrying...", file=sys.stderr)
+                import time
+                time.sleep(retry_delay)
+            else:
+                print(f"ERROR: Failed to fetch posts after {max_retries} attempts: HTTP {e.code}", file=sys.stderr)
+                raise
+        except urllib.error.URLError as e:
+            if attempt < max_retries - 1:
+                print(f"Attempt {attempt + 1}/{max_retries} failed with network error, retrying...", file=sys.stderr)
+                import time
+                time.sleep(retry_delay)
+            else:
+                print(f"ERROR: Network error after {max_retries} attempts: {e.reason}", file=sys.stderr)
+                raise
 
 
 def xesc(s):
